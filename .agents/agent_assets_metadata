@@ -1,0 +1,14 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "ofZ52PAYB48L7qCSh25qn"
+uri = "file://minecraft-bot.tar.gz"
+type = "unspecified"
+title = "minecraft-bot — Saare Scripts (Download Karo)"
+
+[[outputs]]
+id = "tgwHKbnVCd-0xOeA9AX-d"
+uri = "file://minecraft-bot/keep_alive_free.md"
+type = "text"
+title = "24/7 Free Hosting Guide (Roman Hindi)"
